@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: patria 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-21 15:29:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:7
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "Sorry, the page not found."
+msgstr ""
+
+#: 404.php:12
+msgid "Looks like the page you&rsquo;re trying to visit doesn&rsquo;t exist."
+msgstr ""
+
+#: 404.php:13
+msgid "Place check the URL and try luck again."
+msgstr ""
+
+#: archive.php:17
+#: author.php:19
+#: category.php:21
+#: search:php:15
+#: tag:php:21
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: author-info.php
+msgid "Published by "
+msgstr ""
+
+#: content-audio.php:28
+#: content-gallery.php:37
+#: content-image.php:21
+#: content-page.php:17
+#: content-quote.php:9
+#: content-video.php:31
+#: content.php:21
+msgid "Read More..."
+msgstr ""
+
+#: content-gallery.php:29
+msgid "Posted on"
+msgstr ""
+
+#: content-video.php:23
+msgid "Posted on"
+msgstr ""
+
+#: content-none.php:2
+msgid "Sorry, no posts."
+msgstr ""
+
+#: content-audio.php:50
+#: content-gallery.php:59
+#: content-image.php:43
+#: content-video.php:68
+#: content.php:43
+msgid "Comments 0"
+msgstr ""
+
+#: content-audio.php:50
+#: content-gallery.php:59
+#: content-image.php:43
+#: content-video.php:68
+#: content.php:43
+msgid "Comments 1"
+msgstr ""
+
+#: content-audio.php:50
+#: content-gallery.php:59
+#: content-image.php:43
+#: content-video.php:68
+#: content.php:43
+msgid "Comments %"
+msgstr ""
+
+#: content-audio.php:20
+#: content-gallery.php:29
+#: content-image.php:13
+#: content-video.php:23
+#: content.php:13
+msgid "Posted on "
+msgstr ""
+
+#: content-audio.php:20
+#: content-gallery.php:29
+#: content-image.php:13
+#: content-video.php:23
+#: content.php:13
+msgid " by "
+msgstr ""
+
+#: comments:php:14
+msgid "One comment"
+msgstr ""
+
+#: comments:php:16
+msgid "Comments: "
+msgstr ""
+
+#: comments:php:34
+msgid "Older comments"
+msgstr ""
+
+#: comments:php:35
+msgid "Newer comments"
+msgstr ""
+
+#: header:php:36
+msgid "Menu"
+msgstr ""
+
+#: search:php:8
+msgid "Search results for:"
+msgstr ""
+
+#: searchform:php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform:php:4
+msgid "Submit"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:96
+msgid "Widgets in this area will be shown on the bottom side."
+msgstr ""
+
+#: functions.php:116
+msgid "Patria recent posts"
+msgstr ""
+
+#: functions.php:196
+msgid "Title:"
+msgstr ""
+
+#: functions.php:200
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions.php:275
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:281
+msgid "Next page"
+msgstr ""
+
+#: functions.php:282
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:302
+msgid "The method of displaying the menu"
+msgstr ""
+
+#: functions.php:313
+msgid "Choose one of the three methods of displaying the menu."
+msgstr ""
+
+#: functions.php:314
+msgid "Each of the three methods of displaying the menu is fully responsive."
+msgstr ""
+
+#: functions.php:319
+msgid "1) The menu is extended to the entire width of the page."
+msgstr ""
+
+#: functions.php:320
+msgid "2) The menu has a predetermined width."
+msgstr ""
+
+#: functions.php:321
+msgid "3) The menu has a certain width, and whole page is preceded by a distance from the top of the page."
+msgstr ""
+
+#: functions.php:333
+msgid "Social icons in footer of the page"
+msgstr ""
+
+#: functions.php:334
+msgid "To add a link to a social networking site place the link to your profile in the field reserved for the appropriate service. If you do not want to some icon appeared there, do not complement the field, however, if the icon displayed itself, check whether the field does not contain spaces or tabs."
+msgstr ""
+
+#: functions.php:344
+msgid "Facebook URL"
+msgstr ""
+
+#: functions.php:355
+msgid "Twitter URL"
+msgstr ""
+
+#: functions.php:366
+msgid "Google Plus URL"
+msgstr ""
+
+#: functions.php:377
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions.php:388
+msgid "YouTube URL"
+msgstr ""
+
+#: functions.php:399
+msgid "Pinterest URL"
+msgstr ""
+
+#: functions.php:410
+msgid "GitHub URL"
+msgstr ""
+
+#: functions.php:421
+msgid "Vimeo URL"
+msgstr ""
+
+#: functions.php:432
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:443
+msgid "SoundCloud URL"
+msgstr ""
+
+#: functions.php:454
+msgid "Twitch URL"
+msgstr ""
+
+#: functions.php:465
+msgid "Tumblr URL"
+msgstr ""
+
+#: functions:489
+msgid "Information about author "
+msgstr ""
+
+#: functions:490
+msgid "Option to enable / disable the displaying of information about the author of the posts/pages."
+msgstr ""
+
+#: functions:501
+msgid "Display in posts:"
+msgstr ""
+
+#: functions:518
+msgid "Display in pages:"
+msgstr ""
+
+#: functions:506
+#: functions:523
+msgid "Yes"
+msgstr ""
+
+#: functions:507
+#: functions:524
+msgid "No"
+msgstr ""
+
+#: footer.php:3
+msgid "Copyright "
+msgstr ""
+
+#: footer.php:3
+msgid "All Rights Reserved."
+msgstr ""
