@@ -1,7 +1,7 @@
 # Patria
 Patria is a minimalist, simple and creative Wordpress blog theme. This theme is content-focused, so it is perfect for a personal blog. It supports 7 Post Formats (standard, gallery, image, audio, video, quote, link). It is simple and elegant. Theme options are directly incorporated with WordPress. Patria is suitable for any kind of personal or hobby blog.
 
-![Screenshot Patria]("./screenshot.png")
+![Screenshot Patria](screenshot.png)
 
 ## Demo 
 Demonstration version you can see on [Patria website](http://patria.karolprofic.pl/)
